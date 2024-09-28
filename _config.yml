@@ -1,0 +1,7 @@
+# Site settings
+title: Why I'm on Github
+author: David Bentham
+description: "Why a civil servant is learning to code."
+
+# Build settings
+theme: minima
